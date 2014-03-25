@@ -11,6 +11,7 @@ A means of recording useful examples of open source in government.
 * [Qu, a streaming data platform](https://github.com/cfpb/qu)
 * [Regulations parser](https://github.com/cfpb/regulations-parser)
 * [Social Media Registry](https://github.com/GSA/ringsail)
+* [SCAP Security Guide](https://fedorahosted.org/scap-security-guide/)
 
 ## Agency Open Source Policies
 * [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/developers/sourcecodepolicy/)
