@@ -12,6 +12,7 @@ A means of recording useful examples of open source in government.
 * [Qu, a streaming data platform](https://github.com/cfpb/qu)
 * [Regulations parser](https://github.com/cfpb/regulations-parser)
 * [Social Media Registry](https://github.com/GSA/ringsail)
+* [SCAP Security Guide](https://fedorahosted.org/scap-security-guide/)
 * [Apache Tika](http://tika.apache.org/)
 
 ## Agency Open Source Policies
